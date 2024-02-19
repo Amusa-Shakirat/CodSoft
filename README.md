@@ -1,4 +1,5 @@
 CodSoft Internship Project
+
 Welcome to the CodSoft Internship Project repository! During my internship with CodSoft, I had the opportunity to work on a diverse range of projects aimed at honing my skills in Java programming and software development. This repository contains the code for five tasks I completed during my internship:
 
 Number Game: A Java application that generates random numbers and challenges users to guess the correct number within a specified range.
